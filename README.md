@@ -1,4 +1,4 @@
-# UOC - SUBJECT SHORTNAME - ACTIVITY (M1, PEC1, ETC.)
+# UOC - B2.503 - M3
 
-A simple Unity project created to test the contents in XXX | The Unity project for the XXX activity
+A simple Unity project created to test the contents in M3
 
